@@ -11,8 +11,6 @@
   •
   <a href="#usage">Usage</a>        
   •
-  <a href="#preview">Preview</a>
-  •
   <a href="#disclaimer">Disclaimer</a>
 </p>
 
