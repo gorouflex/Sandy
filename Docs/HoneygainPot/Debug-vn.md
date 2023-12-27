@@ -19,16 +19,16 @@
 3. Chọn tab `Manual` hoặc `Daily` rồi chọn tab `Run HoneygainPot` bạn sẽ thấy mã lỗi/nhật ký báo lỗi
 
 <p align="left">
-  <img src="/Img/step-1.png">
+  <img src="/Img/HoneygainPot/step-1.png">
 </p>
 <p align="center">
-  <img src="/Img/step-2.png">
+  <img src="/Img/HoneygainPot/step-2.png">
 </p>
 <p align="center">
-  <img src="/Img/step-3.png">
+  <img src="/Img/HoneygainPot/step-3.png">
 </p>
 <p align="left">
-  <img src="/Img/step-4.png">
+  <img src="/Img/HoneygainPot/step-4.png">
 </p>
   
 ## GitHub Actions

@@ -19,16 +19,16 @@
 3. Then click on the `Manual` or `Daily` tab, and click on the `Run HoneygainPot` section; you will see the debug logs
 
 <p align="left">
-  <img src="/Img/step-1.png">
+  <img src="/Img/HoneygainPot/step-1.png">
 </p>
 <p align="center">
-  <img src="/Img/step-2.png">
+  <img src="/Img/HoneygainPot/step-2.png">
 </p>
 <p align="center">
-  <img src="/Img/step-3.png">
+  <img src="/Img/HoneygainPot/step-3.png">
 </p>
 <p align="left">
-  <img src="/Img/step-4.png">
+  <img src="/Img/HoneygainPot/step-4.png">
 </p>
   
 ## GitHub Actions
