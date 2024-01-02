@@ -56,7 +56,7 @@
 ### Error code 3
 
 ```
-❌ Error code 3: Cannot receive any input, make sure 'IsGit' = 1
+❌ Error code 3: You have exceeded your login tries
 ```
 
 > [!TIP]
