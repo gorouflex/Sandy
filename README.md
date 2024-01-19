@@ -1,21 +1,18 @@
-<p align="center">
-<img src="Img/Sandy/SmallLogo.png"/>            
-</p>
-<h1 align="center">Project Sandy</h1>
-<h4 align="center">Official Documents and Information Repository for Project Sandy</h4>
-</p>
-<p align="center">
+<picture><img align="left" src="Img/Sandy/SmallLogo.png" width="20%"/></picture>
+<h1>Project Sandy</h1>
+<h4>Official Documents and Information Repository for Project Sandy</h4>
+
+<p align="left">
   <a href="Docs/Sandy/FAQ.md">FAQ</a> 
-  •
-  <a href="#usage">Usage</a>        
   •
   <a href="#sandy-products-status">Sandy Products Status (SPS)</a>        
   •
   <a href="#disclaimer">Disclaimer</a>
 </p>
 
-# Usage
-### Belongs to the Sandy Project
+#
+
+## Belongs to the Sandy Project
 
 - [Sandy](https://github.com/gorouflex/Sandy/) ( Official Documents and Information Repository for Project Sandy )
 - [HoneygainPot](https://github.com/gorouflex/HoneygainPot/) ( 🐝 Automatically claim your Honeygain lucky pot every day 🍯 )
@@ -31,6 +28,8 @@
 | Run with GitHub Actions | N/A | ✅ Yes | ✅ Yes |
 | Run with normal PC | N/A | ✅ Yes | ✅ Yes |
 | Supported OS | N/A | Windows, Linux, macOS | Windows, Linux, macOS |
+| API | N/A | ✅ Yes | ✅ Yes |
+| GDC | N/A | 1 year | 1 year |
 | Support 24/7 | N/A | ✅ Yes | ✅ Yes |
 | Stable | N/A | ✅ Yes | ⚠️ Partially |
 | License | N/A | [MIT License](https://mit-license.org/) | [MIT License](https://mit-license.org/) |
