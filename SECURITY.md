@@ -1,21 +1,23 @@
-# Security Policy
+# Sandy Products Status
 
-## Supported Versions
+|  | Sandy | HoneygainPot | DuoXPy |
+|    :---:     |    :---:   |    :---:   |    :---:   |
+|   |  <img src="Img/Sandy/SmallLogo.png"/>   | <img src="Img/HoneygainPot/SmallLogo.png"/>  | <img src="Img/DuoXPy/duo.svg"/>
+| Description | Official Documents and Information Repository for Project Sandy | 🐝 Claim Honeygain’s lucky pot and achievement rewards every day with GitHub Actions 🔥| ⚡️ XP farm and Streak keeper for Duolingo with GitHub Actions 🔥 |
+| Status | N/A | <p align="center"><img alt="GitHub issues" src="https://img.shields.io/github/issues/gorouflex/HoneygainPot?style=flat"><img src="https://img.shields.io/github/forks/gorouflex/HoneygainPot?style=flat"></p><p align="center"><img src="https://img.shields.io/github/stars/gorouflex/HoneygainPot?style=flat"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/gorouflex/HoneygainPot?style=flat"><img src="https://img.shields.io/github/contributors/gorouflex/HoneygainPot?style=flat"><a href="https://github.com/gorouflex/HoneygainPot/actions/workflows/codeql.yml"></p><p align="center"><img src="https://github.com/gorouflex/HoneygainPot/actions/workflows/codeql.yml/badge.svg"></a><a href="https://github.com/gorouflex/HoneygainPot/actions/workflows/cl.yml"><img src="https://github.com/gorouflex/HoneygainPot/actions/workflows/cl.yml/badge.svg"></a><a href="https://github.com/gorouflex/HoneygainPot/actions/workflows/daily.yml"></p><p align="center"><img src="https://github.com/gorouflex/HoneygainPot/actions/workflows/daily.yml/badge.svg"></a><a href="https://github.com/gorouflex/HoneygainPot/actions/workflows/manual.yml"><img src="https://github.com/gorouflex/HoneygainPot/actions/workflows/manual.yml/badge.svg"></a></p> | <p align="center"><img alt="GitHub issues" src="https://img.shields.io/github/issues/gorouflex/DuoXPy?style=flat"><img src="https://img.shields.io/github/forks/gorouflex/DuoXPy?style=flat"></p><p align="center"><img src="https://img.shields.io/github/stars/gorouflex/DuoXPy?style=flat"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/gorouflex/DuoXPy?style=flat"><img src="https://img.shields.io/github/contributors/gorouflex/DuoXPy?style=flat"><a href="https://github.com/gorouflex/DuoXPy/actions/workflows/codeql.yml"></p><p align="center"><img src="https://github.com/gorouflex/DuoXPy/actions/workflows/codeql.yml/badge.svg"></a><a href="https://github.com/gorouflex/DuoXPy/actions/workflows/cl.yml"><img src="https://github.com/gorouflex/DuoXPy/actions/workflows/cl.yml/badge.svg"></a><a href="https://github.com/gorouflex/DuoXPy/actions/workflows/daily.yml"></p><p align="center"><img src="https://github.com/gorouflex/DuoXPy/actions/workflows/daily.yml/badge.svg"></a><a href="https://github.com/gorouflex/DuoXPy/actions/workflows/manual.yml"><img src="https://github.com/gorouflex/DuoXPy/actions/workflows/manual.yml/badge.svg"></a></p> |
+| Run with GitHub Actions | N/A | ✅ Yes | ✅ Yes |
+| Run with normal PC | N/A | ✅ Yes | ✅ Yes |
+| Supported OS | N/A | Windows, Linux, macOS | Windows, Linux, macOS |
+| API | N/A | ✅ Yes | ✅ Yes |
+| GDC | N/A | 1 year | 1 year |
+| Support 24/7 | N/A | ✅ Yes | ✅ Yes |
+| Stable | N/A | ✅ Yes | ⚠️ Partially |
+| License | N/A | [MIT License](https://mit-license.org/) | [MIT License](https://mit-license.org/) |
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+# Disclaimer
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+> [!WARNING]
+>
+> - This script/bot/project is **not** affiliated with anything 
+> - Use it at your **own risk** and responsibility
+> - I will **not responsible** for any consequences that may arise from using these script/bot from the project
