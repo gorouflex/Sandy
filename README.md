@@ -18,6 +18,14 @@
 - [HoneygainPot](https://github.com/gorouflex/HoneygainPot/) ( 🐝 Automatically claim your Honeygain lucky pot every day 🍯 )
 - [DuoXPy](https://github.com/gorouflex/DuoXPy/) ( ⚡️ XP farm and Streak keeper for Duolingo 🔥 )
 
+# Disclaimer
+
+> [!WARNING]
+>
+> - This script/bot/project is **not** affiliated with anything 
+> - Use it at your **own risk** and responsibility
+> - I will **not responsible** for any consequences that may arise from using these script/bot from the project
+
 ## Recent activity [![Time period](https://images.repography.com/44739709/gorouflex/Sandy/recent-activity/an3FJkJgAVnWqVv40zBjmjHq8PtTFc7YHBuLtpqSmJo/bu9SAte2as-7VXC8Rn4KsTtQ9LcrSEpBoc_W7aBqibQ_badge.svg)](https://repography.com)
 [![Timeline graph](https://images.repography.com/44739709/gorouflex/Sandy/recent-activity/an3FJkJgAVnWqVv40zBjmjHq8PtTFc7YHBuLtpqSmJo/bu9SAte2as-7VXC8Rn4KsTtQ9LcrSEpBoc_W7aBqibQ_timeline.svg)](https://github.com/gorouflex/Sandy/commits)
 [![Issue status graph](https://images.repography.com/44739709/gorouflex/Sandy/recent-activity/an3FJkJgAVnWqVv40zBjmjHq8PtTFc7YHBuLtpqSmJo/bu9SAte2as-7VXC8Rn4KsTtQ9LcrSEpBoc_W7aBqibQ_issues.svg)](https://github.com/gorouflex/Sandy/issues)
