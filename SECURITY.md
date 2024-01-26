@@ -9,15 +9,8 @@
 | Run with normal PC | N/A | ✅ Yes | ✅ Yes |
 | Supported OS | N/A | Windows, Linux, macOS | Windows, Linux, macOS |
 | API | N/A | ✅ Yes | ✅ Yes |
-| GDC | N/A | 1 year | 1 year |
+| G2SP | N/A | 1 year | 1 year |
 | Support 24/7 | N/A | ✅ Yes | ✅ Yes |
 | Stable | N/A | ✅ Yes | ⚠️ Partially |
 | License | N/A | [MIT License](https://mit-license.org/) | [MIT License](https://mit-license.org/) |
 
-# Disclaimer
-
-> [!WARNING]
->
-> - This script/bot/project is **not** affiliated with anything 
-> - Use it at your **own risk** and responsibility
-> - I will **not responsible** for any consequences that may arise from using these script/bot from the project
