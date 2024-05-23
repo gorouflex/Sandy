@@ -12,6 +12,7 @@
 
 #
 
+# Recently, Run with GitHub Actions feature will be completely removed because it's known that feature violated their TOS
 ## Belongs to the Sandy Project
 
 - [Sandy](https://github.com/gorouflex/Sandy/) ( Official Documents and Information Repository for Project Sandy )
