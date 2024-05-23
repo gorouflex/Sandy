@@ -1,14 +1,14 @@
 # Sandy Products Status
 
-|  | Sandy | HoneygainPot | DuoXPy |
-|    :---:     |    :---:   |    :---:   |    :---:   |
-|   |  <img src="Img/Sandy/SmallLogo.png"/>   | <img src="Img/HoneygainPot/SmallLogo.png"/>  | <img src="Img/DuoXPy/duo.svg"/>
-| Description | Official Documents and Information Repository for Project Sandy | 🐝 Claim Honeygain’s lucky pot and achievement rewards every day with GitHub Actions 🔥| ⚡️ XP farm and Streak keeper for Duolingo with GitHub Actions 🔥 |
-| Status | N/A | <p align="center"><img alt="GitHub issues" src="https://img.shields.io/github/issues/gorouflex/HoneygainPot?style=flat"><img src="https://img.shields.io/github/forks/gorouflex/HoneygainPot?style=flat"></p><p align="center"><img src="https://img.shields.io/github/stars/gorouflex/HoneygainPot?style=flat"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/gorouflex/HoneygainPot?style=flat"><img src="https://img.shields.io/github/contributors/gorouflex/HoneygainPot?style=flat"><a href="https://github.com/gorouflex/HoneygainPot/actions/workflows/codeql.yml"></p><p align="center"><img src="https://github.com/gorouflex/HoneygainPot/actions/workflows/codeql.yml/badge.svg"></a><a href="https://github.com/gorouflex/HoneygainPot/actions/workflows/cl.yml"><img src="https://github.com/gorouflex/HoneygainPot/actions/workflows/cl.yml/badge.svg"></a><a href="https://github.com/gorouflex/HoneygainPot/actions/workflows/daily.yml"></p><p align="center"><img src="https://github.com/gorouflex/HoneygainPot/actions/workflows/daily.yml/badge.svg"></a><a href="https://github.com/gorouflex/HoneygainPot/actions/workflows/manual.yml"><img src="https://github.com/gorouflex/HoneygainPot/actions/workflows/manual.yml/badge.svg"></a></p> | <p align="center"><img alt="GitHub issues" src="https://img.shields.io/github/issues/gorouflex/DuoXPy?style=flat"><img src="https://img.shields.io/github/forks/gorouflex/DuoXPy?style=flat"></p><p align="center"><img src="https://img.shields.io/github/stars/gorouflex/DuoXPy?style=flat"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/gorouflex/DuoXPy?style=flat"><img src="https://img.shields.io/github/contributors/gorouflex/DuoXPy?style=flat"><a href="https://github.com/gorouflex/DuoXPy/actions/workflows/codeql.yml"></p><p align="center"><img src="https://github.com/gorouflex/DuoXPy/actions/workflows/codeql.yml/badge.svg"></a><a href="https://github.com/gorouflex/DuoXPy/actions/workflows/cl.yml"><img src="https://github.com/gorouflex/DuoXPy/actions/workflows/cl.yml/badge.svg"></a><a href="https://github.com/gorouflex/DuoXPy/actions/workflows/daily.yml"></p><p align="center"><img src="https://github.com/gorouflex/DuoXPy/actions/workflows/daily.yml/badge.svg"></a><a href="https://github.com/gorouflex/DuoXPy/actions/workflows/manual.yml"><img src="https://github.com/gorouflex/DuoXPy/actions/workflows/manual.yml/badge.svg"></a></p> |
-| Supported OS | N/A | Windows, Linux, macOS | Windows, Linux, macOS |
-| API | N/A | ✅ Yes | ✅ Yes |
-| G2SP | N/A | 1 year | 1 year |
-| Support 24/7 | N/A | ✅ Yes | ✅ Yes |
-| Stable | N/A | ✅ Yes | ⚠️ Partially |
-| License | N/A | [MIT License](https://mit-license.org/) | [MIT License](https://mit-license.org/) |
+|  | Sandy | DuoXPy |
+|    :---:     |    :---:   |   :---:   |
+|   |  <img src="Img/Sandy/SmallLogo.png"/>   | <img src="Img/DuoXPy/duo.svg"/>
+| Description | Official Documents and Information Repository for Project Sandy |⚡️ XP farm and Streak keeper for Duolingo 🔥 |
+| Status | N/A | ... |
+| Supported OS | N/A | Windows, Linux, macOS |
+| API | N/A | ✅ Yes |
+| G2SP | N/A | 1 year |
+| Support 24/7 | N/A | ✅ Yes |
+| Stable | N/A | ⚠️ Partially |
+| License | N/A | [MIT License](https://mit-license.org/) |
 
