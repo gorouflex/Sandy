@@ -12,11 +12,10 @@
 
 #
 
-# Recently, Run with GitHub Actions feature will be completely removed because it's known that feature violated their TOS
+# Recently, Run with GitHub Actions feature had been completely removed (reason: violated TOS)
 ## Belongs to the Sandy Project
 
 - [Sandy](https://github.com/gorouflex/Sandy/) ( Official Documents and Information Repository for Project Sandy )
-- [HoneygainPot](https://github.com/gorouflex/HoneygainPot/) ( 🐝 Automatically claim your Honeygain lucky pot every day 🍯 )
 - [DuoXPy](https://github.com/gorouflex/DuoXPy/) ( ⚡️ XP farm and Streak keeper for Duolingo 🔥 )
 
 # Disclaimer
