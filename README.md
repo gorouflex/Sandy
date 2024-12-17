@@ -16,8 +16,9 @@
 ## Belongs to the Sandy Project
 
 - [Sandy](https://github.com/gorouflex/Sandy/) ( Official Documents and Information Repository for Project Sandy )
-- [DuoXPy](https://github.com/gorouflex/DuoXPy/) ( ⚡️ XP farm and Streak keeper for Duolingo 🔥 )
-
+- [DuoXPyMax](https://github.com/gorouflex/DuoXPyMax/) ( DuoXPy Reborn (DuoXPy Max) – The #1 AIO Tool for Duolingo )
+- [HoneyPotReborn](https://github.com/gorouflex/HoneyPotReborn)
+  
 # Disclaimer
 
 > [!WARNING]
